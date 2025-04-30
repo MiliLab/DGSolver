@@ -12,7 +12,11 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 
 ## Overview
 
-<img src="./assets/IJCAI_2024_LeMeViT/lemevit.png" width="100%">
+<img src="./assets/method.png" width="100%">
+
+## Visualization
+
+<img src="./assets/visualization.png" width="100%">
 
 ### Contributor
 
@@ -20,4 +24,4 @@ Baixuzx7 @ wanghebaixu@gmail.com
 
 ### Copyright statement
 
-The project is signed under the MIT license, see the [LICENSE.txt](https://github.com/MiliLab/DGSolver/main/LICENSE.txt)
+The project is signed under the MIT license, see the [LICENSE.txt](https://github.com/MiliLab/DGSolver/LICENSE.md)

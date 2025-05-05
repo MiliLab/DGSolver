@@ -4,7 +4,7 @@
 
 <em>Hebaixu Wang, Jing Zhang, Haonan Guo, Di Wang, Jiayi Ma and Bo Du</em>.
 
-[Paper]() |  [Github Code](https://github.com/MiliLab/DGSolver)
+[Paper](https://arxiv.org/abs/2504.21487) |  [Github Code](https://github.com/MiliLab/DGSolver)
 
 ## Abstract
 
@@ -17,6 +17,43 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 ## Visualization
 
 <img src="./assets/visualization.png" width="100%">
+
+## Datasets Information
+
+| Task                     | Dataset                        | Synthetic/Real      | Download Links |
+|--------------------------|--------------------------------|---------------------|----------------|
+| **Deraining**            | DID                            | Synthetic           | URL()              |
+|                          | DeRaindrop                     | Real                | URL()          |
+|                          | Rain13K                        | Synthetic           | URL()        |
+|                          | Rain_100H                      | Synthetic           | URL()           |
+|                          | Rain_100L                      | Synthetic           | URL()            | 
+|                          | GT-Rain                        | Real                | URL()         | 
+|                          | RealRain-1k-H                  | Real                | URL()           | 
+|                          | RealRain-1k-L                  | Real                | URL()            |
+| **Low-light Enhancement**| LOL                            | Real                | URL()            |
+|                          | MEF                            | Real                | URL()             |
+|                          | VE-LOL-L                       | Synthetic/Real      | URL()        | 
+|                          | NPE                            | Real                | URL()              | 
+| **Desnowing**            | CSD                            | Synthetic           | URL()          | 
+|                          | Snow100K-Real                  | Real                | URL()          |
+| **Dehazing**             | SOTS                           | Synthetic           | URL()          | 
+|                          | ITS_v2                         | Synthetic           | URL()         | 
+|                          | D-HAZY                         | Synthetic           | URL()          |
+|                          | NH-HAZE                        | Real                | URL()          |
+|                          | Dense-Haze                     | Real               | URL()          |
+|                          | NHRW                           | Real                | URL()          | 
+| **Deblur**               | GoPro                          | Synthetic           | URL()          | 
+|                          | RealBlur                       | Real                | URL()          | 
+
+## Model Checkpoint
+
+[Google Cloud]()
+[Baidu Cloud]()
+
+## Mixed-Datasets Links
+
+[Google Cloud]()
+[BaiduYun](https://pan.baidu.com/s/1Gkrf_a0cZ7vSXyFN4kPKaA?pwd=3di3)
 
 ### Contributor
 

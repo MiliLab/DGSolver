@@ -22,37 +22,36 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 
 | Task                     | Dataset                        | Synthetic/Real      | Download Links |
 |--------------------------|--------------------------------|---------------------|----------------|
-| **Deraining**            | DID                            | Synthetic           | URL()              |
-|                          | DeRaindrop                     | Real                | URL()          |
-|                          | Rain13K                        | Synthetic           | URL()        |
-|                          | Rain_100H                      | Synthetic           | URL()           |
-|                          | Rain_100L                      | Synthetic           | URL()            | 
-|                          | GT-Rain                        | Real                | URL()         | 
-|                          | RealRain-1k-H                  | Real                | URL()           | 
-|                          | RealRain-1k-L                  | Real                | URL()            |
-| **Low-light Enhancement**| LOL                            | Real                | URL()            |
-|                          | MEF                            | Real                | URL()             |
-|                          | VE-LOL-L                       | Synthetic/Real      | URL()        | 
-|                          | NPE                            | Real                | URL()              | 
-| **Desnowing**            | CSD                            | Synthetic           | URL()          | 
-|                          | Snow100K-Real                  | Real                | URL()          |
-| **Dehazing**             | SOTS                           | Synthetic           | URL()          | 
-|                          | ITS_v2                         | Synthetic           | URL()         | 
-|                          | D-HAZY                         | Synthetic           | URL()          |
-|                          | NH-HAZE                        | Real                | URL()          |
-|                          | Dense-Haze                     | Real               | URL()          |
-|                          | NHRW                           | Real                | URL()          | 
-| **Deblur**               | GoPro                          | Synthetic           | URL()          | 
-|                          | RealBlur                       | Real                | URL()          | 
+| **Deraining**            | DID                            | Synthetic           | [URL](https://github.com/hezhangsprinter/DID-MDN)              |
+|                          | DeRaindrop                     | Real                | [URL](https://github.com/rui1996/DeRaindrop)          |
+|                          | Rain13K                        | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)        |
+|                          | Rain_100H                      | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)           |
+|                          | Rain_100L                      | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)                                                                                              | 
+|                          | GT-Rain                        | Real                | [URL](https://github.com/UCLA-VMG/GT-RAIN)                                                                                              | 
+|                          | RealRain-1k                    | Real                | [URL](https://github.com/hiker-lw/RealRain-1k)                                                                                          | 
+| **Low-light Enhancement**| LOL                            | Real                | [URL](https://github.com/weichen582/RetinexNet?tab=readme-ov-file)                                                                      |
+|                          | MEF                            | Real                | [URL](https://ieeexplore.ieee.org/abstract/document/7120119)                                                                            |
+|                          | VE-LOL-L                       | Synthetic/Real      | [URL](https://flyywh.github.io/IJCV2021LowLight_VELOL/)                                                                                 | 
+|                          | NPE                            | Real                | [URL](https://ieeexplore.ieee.org/abstract/document/6512558)                                                                            | 
+| **Desnowing**            | CSD                            | Synthetic           | [URL](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)                                                         | 
+|                          | Snow100K-Real                  | Real                | [URL](https://sites.google.com/view/yunfuliu/desnownet)                                                                                 |
+| **Dehazing**             | SOTS                           | Synthetic           | [URL](https://sites.google.com/view/reside-dehaze-datasets/reside-standard?authuser=3D0)                                                | 
+|                          | ITS_v2                         | Synthetic           | [URL](https://sites.google.com/view/reside-dehaze-datasets/reside-standard?authuser=3D0)                                                | 
+|                          | D-HAZY                         | Synthetic           | [URL](https://www.cvmart.net/dataSets/detail/559?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article)          |
+|                          | NH-HAZE                        | Real                | [URL](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)                                                                              |
+|                          | Dense-Haze                     | Real                | [URL](https://data.vision.ee.ethz.ch/cvl/ntire19/dense-haze/)                                                                           |
+|                          | NHRW                           | Real                | [URL](https://github.com/chaimi2013/3R)                                                                                                 | 
+| **Deblur**               | GoPro                          | Synthetic           | [URL](https://github.com/SeungjunNah/DeepDeblur-PyTorch)                                                                                | 
+|                          | RealBlur                       | Real                | [URL](https://github.com/rimchang/RealBlur)                                                                                             | 
 
 ## Model Checkpoint
 
-[Google Cloud]()
-[Baidu Cloud]()
+[Google Cloud]()[TODO]
+[Baidu Cloud]()[TODO]
 
 ## Mixed-Datasets Links
 
-[Google Cloud]()
+[Google Cloud]()[TODO]
 [BaiduYun](https://pan.baidu.com/s/1Gkrf_a0cZ7vSXyFN4kPKaA?pwd=3di3)
 
 ### Contributor
@@ -61,4 +60,4 @@ Baixuzx7 @ wanghebaixu@gmail.com
 
 ### Copyright statement
 
-The project is signed under the MIT license, see the [LICENSE.txt](https://github.com/MiliLab/DGSolver/LICENSE.md)
+The project is signed under the MIT license, see the [LICENSE.md](https://github.com/MiliLab/DGSolver/LICENSE.md)

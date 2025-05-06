@@ -47,12 +47,8 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 ## Model Checkpoint
 
 [Google Cloud]()[TODO]
-[Baidu Cloud]()[TODO]
 
-## Mixed-Datasets Links
-
-[Google Cloud]()[TODO]
-[BaiduYun](https://pan.baidu.com/s/1Gkrf_a0cZ7vSXyFN4kPKaA?pwd=3di3)
+[Baidu Cloud](https://pan.baidu.com/s/1CvZ2HAiwqM1t2VOJe5dYkg?pwd=fz2d)[fz2d]
 
 ### Contributor
 

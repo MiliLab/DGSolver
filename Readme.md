@@ -22,10 +22,10 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 
 | Task                     | Dataset                        | Synthetic/Real      | Download Links |
 |--------------------------|--------------------------------|---------------------|----------------|
-| **Deraining**            | DID                            | Synthetic           | [URL](https://github.com/hezhangsprinter/DID-MDN)              |
-|                          | DeRaindrop                     | Real                | [URL](https://github.com/rui1996/DeRaindrop)          |
-|                          | Rain13K                        | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)        |
-|                          | Rain_100H                      | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)           |
+| **Deraining**            | DID                            | Synthetic           | [URL](https://github.com/hezhangsprinter/DID-MDN)                                                                                       |
+|                          | DeRaindrop                     | Real                | [URL](https://github.com/rui1996/DeRaindrop)                                                                                            |
+|                          | Rain13K                        | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)                                                                                              |
+|                          | Rain_100H                      | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)                                                                                              |
 |                          | Rain_100L                      | Synthetic           | [URL](https://github.com/kuijiang94/MSPFN)                                                                                              | 
 |                          | GT-Rain                        | Real                | [URL](https://github.com/UCLA-VMG/GT-RAIN)                                                                                              | 
 |                          | RealRain-1k                    | Real                | [URL](https://github.com/hiker-lw/RealRain-1k)                                                                                          | 
@@ -46,7 +46,7 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 
 ## Model Checkpoint
 
-[Google Cloud]()[TODO]
+[Google Cloud](https://drive.google.com/file/d/1cc7WkG2E8gGKEzBt7WZFXmkpV7VzLWk7/view?usp=drive_link)
 
 [Baidu Cloud](https://pan.baidu.com/s/1CvZ2HAiwqM1t2VOJe5dYkg?pwd=fz2d)[fz2d]
 

@@ -50,6 +50,8 @@ Diffusion models have achieved remarkable progress in universal image restoratio
 
 [Baidu Cloud](https://pan.baidu.com/s/1CvZ2HAiwqM1t2VOJe5dYkg?pwd=fz2d)[fz2d]
 
+[Huggingface](https://huggingface.co/BaiXuYa/DGSolver)
+
 ### Contributor
 
 Baixuzx7 @ wanghebaixu@gmail.com
